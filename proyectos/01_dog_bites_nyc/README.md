@@ -1,20 +1,24 @@
-# Dog Bites in NYC — Logistic Regression & Visualization
+# Análisis de Mordeduras de Perros en Nueva York — Regresión Logística y Visualización
 
-## Overview
-Analysis of more than 22,000 dog bite incidents in New York City to identify patterns by breed, borough, and sterilization status.
+## Descripción general
+Este proyecto analiza más de 22.000 incidentes de mordeduras de perros en la ciudad de Nueva York, con el objetivo de identificar patrones según la raza, el distrito y el estado de esterilización de los animales.
 
-## Objectives
-- Explore the distribution of dog bites by breed and location.  
-- Identify factors associated with higher bite rates.  
-- Build a simple logistic regression model to predict sterilization status.
+## Objetivos
+- Explorar la distribución de mordeduras por raza y localización geográfica.  
+- Identificar los factores asociados a una mayor probabilidad de mordedura.  
+- Aplicar un modelo de regresión logística para predecir el estado de esterilización de los perros.
 
-## Tools
-R · ggplot2 · dplyr · car · logistic regression
+## Herramientas utilizadas
+R · ggplot2 · dplyr · car · regresión logística  
 
-## Key Insights
-- Pit Bull–type breeds represent the largest share of incidents.
-- Unneutered dogs are 3× more likely to bite.
-- Brooklyn and Queens have the highest number of cases.
+## Principales resultados
+- Las razas tipo *Pit Bull* concentran el mayor número de incidentes.  
+- Los perros no esterilizados tienen tres veces más probabilidad de morder.  
+- Los distritos de Brooklyn y Queens registran la mayor cantidad de casos.  
 
-## 0Dataset
-[Dog Bite Data — NYC Open Data](https://data.cityofnewyork.us/Health/Dog-Bite-Data/rsgh-akpg)
+## Fuente de datos
+[Dog Bite Data – NYC Open Data](https://data.cityofnewyork.us/Health/Dog-Bite-Data/rsgh-akpg)
+
+## Autora
+Carmen Plata Fernández  
+Máster en Estadística Aplicada · Universidad de Granada
