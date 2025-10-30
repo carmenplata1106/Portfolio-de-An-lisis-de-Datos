@@ -1,0 +1,4 @@
+factura_id,cliente_id,fecha_emision,fecha_vencimiento,iva_pct,descuento_pct,estado
+1001,1,2024-06-02,2024-06-30,0.21,0.00,emitida
+1002,2,2024-06-10,2024-07-10,0.21,0.05,parcial
+1003,3,2024-07-01,2024-07-30,0.21,0.00,cobrada
